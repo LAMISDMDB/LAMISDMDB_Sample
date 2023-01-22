@@ -1,4 +1,4 @@
-# LAMISDMDB_Sample
+# LAMISDMDB
 
 Mammography databases are an invaluable tool for medical professionals and researchers in diagnosing, monitoring and treating breast cancer. These databases aim to provide clinicians with comprehensive datasets that can be used for better decision-making when diagnosing patients with early signs or symptoms associated with breast cancer. 
 
